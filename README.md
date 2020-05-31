@@ -1,5 +1,9 @@
 # Steganography - a photo hidder App
 
+With this app you can hide a photo that you have in another with a bigger size and it will impossible to detect any difference.
+
+# How to use
+
 - This app hides a smaller image in a bigger one.
 
 - On each folder, the first image is the one that is read.
