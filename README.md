@@ -8,11 +8,11 @@
 
 - Put the image to hide in the folder ImageToEncode
 - Put the cover image in the folder CoverImages
-- Run the PhotoEncoder application. 
-- A photo named "secret.png" will be generated
+- Run the PhotoEncoder application (PhotoEnconder.exe)
+- A photo named "secret.png" will be generated in the root dir (folder changer)
 
 ## Decoding photo
 
 - Put the image to decode in the folder ImageToDecode
-- Run the PhotoDecoder application
-- A photo named "reveal.png" will be generated 
+- Run the PhotoDecoder application (PhotoDecoder.exe)
+- A photo named "reveal.png" will be generated in the root dir (folder changer)
