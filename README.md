@@ -1,4 +1,4 @@
-# Steganography
+# Steganography - a photo hidder App
 
 - This app hides a smaller image in a bigger one.
 
